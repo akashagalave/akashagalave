@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">I'm a Data Scientist India</h3>
+<h3 align="center">I'm a Data Scientist </h3>
 
 
 I have technical experience and interest in:
