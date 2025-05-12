@@ -5,10 +5,15 @@
 I have technical experience and interest in:
 
  ● Deep Learning
+ 
  ● Machine Learning
+ 
  ● Computer vision
+ 
  ● Natural Language Processing
+ 
  ● MLOps
+ 
  ● Generative AI
 
 👋 Greetings! I'm akashagalave, and I'm thrilled to connect with you.
