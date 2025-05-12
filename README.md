@@ -10,6 +10,7 @@ captivates me,  and I'm eager to delve into challenging projects that push the b
 🌱 Currently, I'm wholeheartedly engaged in expanding my knowledge and skills in data science. I'm actively learning and exploring new techniques, algorithms, and tools to enhance my capabilities.
 
 
+
 I have technical experience and interest in:
 
  ● Deep Learning
