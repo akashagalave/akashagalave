@@ -12,8 +12,11 @@ I have technical experience and interest in:
  ● Generative AI
 
 👋 Greetings! I'm akashagalave, and I'm thrilled to connect with you.
+
 👀 My passion lies in the fascinating realm of data science, where I explore the depths of information to uncover valuable insights. It's a field that constantly
+
    captivates me,  and I'm eager to delve into challenging projects that push the boundaries of what's possible.
+   
 🌱 Currently, I'm wholeheartedly engaged in expanding my knowledge and skills in data science. I'm actively learning and exploring new techniques, algorithms, and tools to enhance my capabilities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashagalave&label=Profile%20views&color=0e75b6&style=flat" alt="akashagalave" /> </p>
