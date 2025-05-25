@@ -1,47 +1,76 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">I'm a Data Scientist </h3>
+<h1 align="center">Hi I'm Akash Agalave!!</h1>
+<h3 align="center">Loves building and collaborating on meaningful projects.</h3>
+
+[![](https://komarev.com/ghpvc/?username=akashagalave&color=blueviolet&style=for-the-badge)](https://github.com/akashagalave)
 
 
-👋 Greetings! I'm akashagalave, and I'm thrilled to connect with you.
+<h2># Simulating myself in code 😄</h2>
 
-👀 My passion lies in the fascinating realm of data science, where I explore the depths of information to uncover valuable insights. It's a field that constantly
-captivates me,  and I'm eager to delve into challenging projects that push the boundaries of what's possible.
-   
-🌱 Currently, I'm wholeheartedly engaged in expanding my knowledge and skills in data science. I'm actively learning and exploring new techniques, algorithms, and tools to enhance my capabilities.
+<div>
+  <img align="right" alt="Coding" height="330" width="400" src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif">
+
+  <pre>
+  <code>
+# Meet the developer behind the code 👇
+
+class Builder:
+    def __init__(self):
+        self.name = "Akash Agalave"
+        self.role = "Aspiring Machine Learning | Data Science | MLOps Enthusiast"
+        self.languages = ["Python", "SQL"]
+        self.learning = ["MLOps", "Agentic AI", "Generative AI"]
+        self.tools = ["Docker", "MLflow", "DVC", "AWS"]
+        self.fun_fact = "I believe in shipping projects, not just writing code."
+
+    def say_hi(self):
+        print("Hey there! Thanks for visiting my GitHub. Let’s connect and create something impactful.")
+
+me = Builder()
+me.say_hi()
+  </code>
+  </pre>
+</div>
 
 
 
-I have technical experience and interest in:
+## Analytics
 
- ● Deep Learning
- 
- ● Machine Learning
- 
- ● Computer vision
- 
- ● Natural Language Processing
- 
- ● MLOps
- 
- ● Generative AI
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashagalave&label=Profile%20views&color=0e75b6&style=flat" alt="akashagalave" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashagalave" alt="akashagalave" /></a> </p>
-
-- 📫 How to reach me **akashagalaveaaa1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akashagalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashagalave" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akash-agalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashagalave" height="30" width="40" /></a>
-<a href="https://instagram.com/akash.agalave2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.agalave2111" height="30" width="40" /></a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashagalave&show_icons=true&locale=en&theme=tokyonight" alt="Akash's GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashagalave&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashagalave&show_icons=true&locale=en&layout=compact" alt="akashagalave" /></p>
+## Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashagalave&show_icons=true&locale=en" alt="akashagalave" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akashagalave&theme=tokyonight" alt="Akash's Top Languages" />
+</p>
+
+
+## Weekly Coding Stats
+
+
+
+### Tools & Frameworks 
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MLflow-12B4B7?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/DVC-003366?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/MLOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="MLOps" />
+</p>
+
+</details>
