@@ -16,7 +16,7 @@
 class Builder:
     def __init__(self):
         self.name = "Akash Agalave"
-        self.role = "Aspiring Machine Learning | Data Science | MLOps Enthusiast"
+        self.role = " Machine Learning | Data Science | MLOps Enthusiast"
         self.languages = ["Python", "SQL"]
         self.learning = ["MLOps", "Agentic AI", "Generative AI"]
         self.tools = ["Docker", "MLflow", "DVC", "AWS"]
