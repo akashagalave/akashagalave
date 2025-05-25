@@ -35,7 +35,7 @@ I have technical experience and interest in:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akashagalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashagalave" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akashagalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashagalave" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/akash-agalave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashagalave" height="30" width="40" /></a>
 <a href="https://instagram.com/akash.agalave2111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.agalave2111" height="30" width="40" /></a>
 </p>
 
