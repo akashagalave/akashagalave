@@ -4,14 +4,14 @@
 [![](https://komarev.com/ghpvc/?username=akashagalave&color=blueviolet&style=for-the-badge)](https://github.com/akashagalave)
 
 
-<h2># Simulating myself in code 😄</h2>
+<h2> Simulating myself in code 😄</h2>
 
 <div>
   <img align="right" alt="Coding" height="330" width="400" src="https://i.pinimg.com/originals/4f/4e/16/4f4e1638e028090ff030ec2ae0fc6919.gif">
 
   <pre>
   <code>
-# Meet the developer behind the code 👇
+ Meet the developer behind the code 👇
 
 class Builder:
     def __init__(self):
