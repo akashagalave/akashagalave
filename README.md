@@ -18,9 +18,8 @@ class Builder:
         self.name = "Akash Agalave"
         self.role = " Machine Learning | Data Science | MLOps Enthusiast"
         self.languages = ["Python", "SQL"]
-        self.learning = ["MLOps", "Agentic AI", "Generative AI"]
+        self.learning = ["DSA", "Generative AI"]
         self.tools = ["Docker", "MLflow", "DVC", "AWS"]
-        self.fun_fact = "I believe in shipping projects, not just writing code."
 
     def say_hi(self):
         print("Hey there! Thanks for visiting my GitHub. Let’s connect and create something impactful.")
@@ -69,7 +68,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/MLOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="MLOps" />
 </p>
 
