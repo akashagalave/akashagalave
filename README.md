@@ -19,7 +19,7 @@ class Builder:
         self.role = " Machine Learning | Data Science | MLOps Enthusiast"
         self.languages = ["Python", "SQL"]
         self.learning = ["DSA", "Generative AI"]
-        self.tools = ["Docker", "MLflow", "DVC", "AWS"]
+        self.tools = ["Docker", "MLflow", "K8S", "AWS"]
 
     def say_hi(self):
         print("Hey there! Thanks for visiting my GitHub. Let’s connect and create something impactful.")
@@ -57,6 +57,7 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
