@@ -27,12 +27,12 @@ class AkashAgalave:
     location: str = "India 🇮🇳"
 
     stack: list = field(default_factory=lambda: [
-        "Python", "PyTorch", "MLflow",
+        "Python", "AgenticAI", "LangGraph",
         "Docker", "Kubernetes", "AWS",
     ])
 
     learning: list = field(default_factory=lambda: [
-        "DSA ⚙️", "LLMOps 🔮", "System Design 🏗️"
+        "DSA ⚙️", "LLMOps 🔮", "AI System Design 🏗️"
     ])
 
     fun_fact: str = "I debug in production. (Mostly kidding.)"
@@ -55,11 +55,11 @@ print(akash.say_hi())
 
 ## 🌱 What I'm up to right now
 
-- 🔭 Building end-to-end **ML pipelines** with full observability
+- 🔭 Building end-to-end **AI/ML pipelines** with full observability
 - 🧬 Exploring **LLMs**, RAG, and LLMOps patterns
-- ⚙️ Grinding through **DSA** and system design
+- ⚙️ Grinding through **DSA** and AI system design
 - 🤝 Open to collaborate on impactful **open-source ML projects**
-- 💬 Ask me about **MLOps, model deployment, Generative AI**
+- 💬 Ask me about **Generative AI,MLOps, model deployment,Scalability**
 
 ---
 
